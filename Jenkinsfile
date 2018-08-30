@@ -1,2 +1,2 @@
 #!/bin/bash
-echo JOB_NAME: env.JOB_NAME
+echo env.JOB_NAME
